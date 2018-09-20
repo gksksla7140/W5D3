@@ -1,5 +1,6 @@
 require 'rack'
 require 'controller_base'
+require 'byebug'
 
 describe ControllerBase do
   before(:all) do
